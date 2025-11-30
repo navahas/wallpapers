@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td><img src="japan_00.jpg" alt="japan_00" width="300" height="200" style="object-fit: cover;"/></td>
-    <td></td>
-    <td></td>
+    <td><img src="hallstatt.jpg" alt="hallstatt" width="300" height="200" style="object-fit: cover;"/></td>
+    <td><img src="TheTrailHome.webp" alt="tth" width="300" height="200" style="object-fit: cover;"/></td>
   </tr>
 </table>
