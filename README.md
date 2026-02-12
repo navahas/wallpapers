@@ -24,4 +24,14 @@
     <td><img src="hallstatt.jpg" alt="hallstatt" width="300" height="200" style="object-fit: cover;"/></td>
     <td><img src="clouds.jpg" alt="clouds" width="300" height="200" style="object-fit: cover;"/></td>
   </tr>
+  <tr>
+    <td><img src="Moonlight-Vanilla.jpg" alt="moonlight-vanilla" width="300" height="200" style="object-fit: cover;"/></td>
+    <td><img src="spirited_road.jpg" alt="spirited_road" width="300" height="200" style="object-fit: cover;"/></td>
+    <td><img src="spirited_shoppers.jpg" alt="spirited_shoppers" width="300" height="200" style="object-fit: cover;"/></td>
+  </tr>
+  <tr>
+    <td><img src="octopus-lofi.jpg" alt="octopus-lofi" width="300" height="200" style="object-fit: cover;"/></td>
+    <td><img src="__" alt="__" width="300" height="200" style="object-fit: cover;"/></td>
+    <td><img src="__" alt="__" width="300" height="200" style="object-fit: cover;"/></td>
+  </tr>
 </table>
