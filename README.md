@@ -34,4 +34,9 @@
     <td><img src="stephen-njoto.jpg" alt="tiger_njoto" width="300" height="200" style="object-fit: cover;"/></td>
     <td><img src="airballoon-sky.jpg" alt="airballoon" width="300" height="200" style="object-fit: cover;"/></td>
   </tr>
+  <tr>
+    <td><img src="ghibli-japanese-walled-garden.png" alt="ghibli-garden-00" width="300" height="200" style="object-fit: cover;"/></td>
+    <td><img src="" alt="" width="300" height="200" style="object-fit: cover;"/></td>
+    <td><img src="" alt="" width="300" height="200" style="object-fit: cover;"/></td>
+  </tr>
 </table>
