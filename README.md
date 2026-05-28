@@ -39,4 +39,9 @@
     <td><img src="shenron.jpg" alt="shenron" width="300" height="200" style="object-fit: cover;"/></td>
     <td><img src="ChunLo-tigers.jpg" alt="yytigers" width="300" height="200" style="object-fit: cover;"/></td>
   </tr>
+  <tr>
+    <td><img src="Winnie.png" alt="Winnie-The-Witch" width="300" height="200" style="object-fit: cover;"/></td>
+    <td><img src="" alt="" width="300" height="200" style="object-fit: cover;"/></td>
+    <td><img src="" alt="" width="300" height="200" style="object-fit: cover;"/></td>
+  </tr>
 </table>
